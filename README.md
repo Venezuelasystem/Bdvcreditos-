@@ -1,1 +1,1 @@
-# Vaidacion de credito personas
+# Validación de credito personas

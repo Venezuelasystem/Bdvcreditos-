@@ -1,1 +1,1 @@
-# Vaidaciondecredito
+# Vaidacion de credito personas
